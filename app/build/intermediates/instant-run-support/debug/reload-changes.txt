@@ -1,0 +1,5 @@
+CHANGED,/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/estudiante/citybiker/R$string$override.class
+CHANGED,/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/estudiante/citybiker/R$mipmap$override.class
+CHANGED,/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/estudiante/citybiker/R$styleable$override.class
+CHANGED,/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/estudiante/citybiker/R$style$override.class
+CHANGED,/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
