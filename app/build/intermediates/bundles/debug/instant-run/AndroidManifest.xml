@@ -15,7 +15,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.estudiante.citybiker.pantalla" >
+        <activity android:name="com.example.estudiante.citybiker.proyectocitybiker" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.estudiante.citybiker.pantalla2" />
+        <activity android:name="com.example.estudiante.citybiker.pantalla3" />
     </application>
 
 </manifest>

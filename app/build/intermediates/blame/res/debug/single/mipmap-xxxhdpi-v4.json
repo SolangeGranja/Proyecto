@@ -1,18 +1,30 @@
 [
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/jugabilidad.jpg",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/src/main/res/mipmap-xxxhdpi/jugabilidad.jpg"
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/escenario1.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/escenario1.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cuadro1.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/cuadro1.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/menu1.jpg",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/src/main/res/mipmap-xxxhdpi/menu1.jpg"
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/atras.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/atras.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/insturccionesletra.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/src/main/res/mipmap-xxxhdpi/insturccionesletra.png"
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cuadro2.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/cuadro2.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cuadro3.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/cuadro3.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/jugarletra.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/jugarletra.png"
     }
 ]

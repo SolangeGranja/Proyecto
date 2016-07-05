@@ -1,6 +1,26 @@
 [
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/obstaculos.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-hdpi/obstaculos.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/menu1.jpg",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-hdpi/menu1.jpg"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/jugabilidad.jpg",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-hdpi/jugabilidad.jpg"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/insturccionesletra.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-hdpi/insturccionesletra.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/puntajes.png",
+        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-hdpi/puntajes.png"
     }
 ]
