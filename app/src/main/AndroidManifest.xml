@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".pantalla2" />
-        <activity android:name=".pantalla3"></activity>
+        <activity android:name=".pantalla3" />
+        <activity android:name=".opciones2" />
+        <activity android:name=".opciones3"></activity>
     </application>
 
 </manifest>

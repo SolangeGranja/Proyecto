@@ -13,7 +13,7 @@ public class proyectocitybiker extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_proyecto_city_biker);
     }
-public void cargar (View v) {
+    public void cargar (View v) {
     Intent i = new Intent(this, pantalla2.class);
     startActivity(i);
 }

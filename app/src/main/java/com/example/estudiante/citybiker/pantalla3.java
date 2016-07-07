@@ -10,4 +10,5 @@ public class pantalla3 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pantalla3);
     }
+
 }

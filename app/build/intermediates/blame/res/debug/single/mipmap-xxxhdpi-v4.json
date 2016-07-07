@@ -1,30 +1,110 @@
 [
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/escenario1.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/escenario1.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\atras.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\atras.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cuadro1.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/cuadro1.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\menu1.jpg",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\menu1.jpg"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/atras.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/atras.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\escenario1.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\escenario1.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\escenario1.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\escenario1.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cuadro2.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/cuadro2.png"
+        "merged": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\escenario1.png",
+        "source": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\src\\main\\res\\mipmap-xxxhdpi\\escenario1.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cuadro3.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/cuadro3.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro1.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro1.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/jugarletra.png",
-        "source": "/home/estudiante/AndroidStudioProjects/CityBiker/app/src/main/res/mipmap-xxxhdpi/jugarletra.png"
+        "merged": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro3.png",
+        "source": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro3.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro1.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro1.png"
+    },
+    {
+        "merged": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro1.png",
+        "source": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro1.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\insturccionesletra.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\insturccionesletra.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro2.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\jugarletra.png",
+        "source": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\src\\main\\res\\mipmap-xxxhdpi\\jugarletra.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro3.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro3.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\menu1.jpg",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\menu1.jpg"
+    },
+    {
+        "merged": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro2.png",
+        "source": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\jugarletra.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\jugarletra.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\jugarletra.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\jugarletra.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\atras.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\atras.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\insturccionesletra.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\insturccionesletra.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro3.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro3.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\jugabilidad.jpg",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\jugabilidad.jpg"
+    },
+    {
+        "merged": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\atras.png",
+        "source": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\src\\main\\res\\mipmap-xxxhdpi\\atras.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cuadro2.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\cuadro2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\jugabilidad.jpg",
+        "source": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\jugabilidad.jpg"
     }
 ]

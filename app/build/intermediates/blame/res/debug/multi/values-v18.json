@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml",
+        "outputFile": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,55 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/home/estudiante/AndroidStudioProjects/CityBiker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-v18/values-v18.xml",
+                    "file": "C:\\Users\\Carlos\\Desktop\\Proyecto-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\home\\estudiante\\AndroidStudioProjects\\CityBiker\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\Carlos\\Documents\\Proyecto\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

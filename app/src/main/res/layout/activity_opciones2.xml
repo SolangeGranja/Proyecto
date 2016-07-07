@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.estudiante.citybiker.opciones2"
+    android:background="@drawable/opciones2">
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/btn1"
+        android:layout_marginTop="77dp"
+        android:background="@mipmap/cuadro1"
+        android:layout_marginLeft="30dp"
+        android:onClick="opc1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/btn2"
+        android:layout_below="@+id/btn1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="40dp"
+        android:onClick="opc2"
+        android:background="@mipmap/cuadro2" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/btn3"
+        android:background="@mipmap/cuadro3"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/btn2"
+        android:onClick="opc3"
+        android:layout_alignStart="@+id/imageButton2" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/btnAtras"
+        android:layout_below="@+id/btn3"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="40dp"
+        android:onClick="menu"
+        android:background="@mipmap/atras" />
+</RelativeLayout>

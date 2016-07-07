@@ -23,6 +23,8 @@
         </activity>
         <activity android:name="com.example.estudiante.citybiker.pantalla2" />
         <activity android:name="com.example.estudiante.citybiker.pantalla3" />
+        <activity android:name="com.example.estudiante.citybiker.opciones2" />
+        <activity android:name="com.example.estudiante.citybiker.opciones3" />
     </application>
 
 </manifest>
